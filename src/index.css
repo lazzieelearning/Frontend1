@@ -1,0 +1,51 @@
+
+.navbar-collapse{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 100px;
+    
+}
+ a{
+    color: aqua !important;
+}
+.navbar-brand{
+    margin-left: 100px;
+    color: aqua !important;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+
+}
+.card {
+    border: 3px solid black;
+}
+
+.card-header{
+    background-color: black !important;
+    color: aqua !important;
+}
+
+.card-footer{
+    background-color: black !important;
+   
+}
+
+img{
+    margin: 20px 20px;
+   width: 250px !important;
+   height: 250px;
+}
+
+button{
+    border-radius: 25px !important;
+}
+
+
+
